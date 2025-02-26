@@ -15,9 +15,6 @@ Welcome to my **Personal Portfolio** repository! 🎨 This project showcases my 
 
 ---
 
-## 🌐 Live Demo  
-
-🔗 [<a href="https://sassri24.github.io/Personal-Portfolio/">Visit My Portfolio</a>]  
 
 ---
 
@@ -34,30 +31,7 @@ Personal-Portfolio/
 └── README.md           # Project documentation  
 ```  
 
----
 
-## 🛠️ How to Run  
-
-1. **Clone the Repository**:  
-   ```bash  
-   git clone https://github.com/Sassri24/Personal-Portfolio.git  
-   ```  
-
-2. **Open `index.html`** in your browser to view the portfolio.  
-
----
-
-## 🤝 Contributing  
-
-Want to contribute? Suggestions, improvements, or bug reports are welcome! 🙌  
-
----
-
-## 📜 License  
-
-This project is open source and available under the MIT License.  
-
----
 
 💡 **Thank you for visiting my portfolio!** Feel free to explore and share feedback. 😊  
 
